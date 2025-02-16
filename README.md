@@ -5,7 +5,6 @@ I'm excited about creating applications that make a difference and improve user 
 - 💻 Learning Java to build robust applications.
 - 📱 Diving into mobile app development with tools like **Android Studio** and **Flutter**.
 - 🔍 Always on the lookout for new challenges and opportunities to grow my skills.
-- 💞️ I’m looking to collabo - **Open-source projects**: If you're working on an open-source project in Java or mobile app development, I’d love to contribute!
 - 📫 How to reach - 🌐 [LinkedIn](https://www.linkedin.com/in/harsh-pathak-48389b1a3/)
 - 📧 [Email](mailto:harsh9934530656pathak@gmail.com)
 - 😄 Pronouns: He/Him
