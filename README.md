@@ -3,7 +3,6 @@
 I'm excited about creating applications that make a difference and improve user experiences.
 - 🌱 I’m currently learning CSE at VIT, Chennai.
 - 💻 Learning Java to build robust applications.
-- 📱 Diving into mobile app development with tools like **Android Studio** and **Flutter**.
 - 🔍 Always on the lookout for new challenges and opportunities to grow my skills.
 - 📫 How to reach - 🌐 [LinkedIn](https://www.linkedin.com/in/harsh-pathak-48389b1a3/)
 - 📧 [Email](mailto:harsh9934530656pathak@gmail.com)
@@ -11,9 +10,7 @@ I'm excited about creating applications that make a difference and improve user 
 I'm always open to collaborating on projects or discussing new ideas. Don't hesitate to reach out!
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Java, Python
-- **Tools**: Android Studio, Git,
-
+- **Languages**: Java, Python,C,C++
 <!---
 Harsh-pa-thak/Harsh-pa-thak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
