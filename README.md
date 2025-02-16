@@ -10,7 +10,7 @@ I'm excited about creating applications that make a difference and improve user 
 I'm always open to collaborating on projects or discussing new ideas. Don't hesitate to reach out!
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Java, Python,C,C++
+- **Languages**: Java, Python, C, C++, Html, Css, Java-Script, React ,Node, Express 
 <!---
 Harsh-pa-thak/Harsh-pa-thak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
