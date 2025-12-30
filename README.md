@@ -6,8 +6,7 @@ I'm excited about creating applications that make a difference and improve user 
 - 🔍 Always on the lookout for new challenges and opportunities to grow my skills.
 - Protflio webside -  https://harsh-pathak.netlify.app/
 - 📫 How to reach - 🌐 [LinkedIn](https://www.linkedin.com/in/harsh-pathak-48389b1a3/)
-- 📧 [Email](mailto:harsh9934530656pathak@gmail.com)
-- 😄 Pronouns: He/Him
+- 📧 [Email](mailto:harphy45@gmail.com)
 I'm always open to collaborating on projects or discussing new ideas. Don't hesitate to reach out!
 
 ## 🛠️ Technologies & Tools
