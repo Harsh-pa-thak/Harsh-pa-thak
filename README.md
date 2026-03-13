@@ -3,4 +3,4 @@
 
 Hi, Java is best programming language.
 
-lol 😊
+ 😊
